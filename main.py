@@ -22,7 +22,7 @@ async def set_starters():
             message="sou avançado em python.",
             icon="/public/terminal.svg",
             ),
-        
+        #inicio
         ]
 
 
